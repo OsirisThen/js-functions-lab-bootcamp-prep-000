@@ -3,7 +3,7 @@ function happyHolidays(){
   return "Happy holidays!"
 }
 
-let name=Nicaury;
+//let name=Nicaury;
 function happyHolidaysTo(name){
-  return "Happy holidays,"+name+"!";
+  return "Happy holidays, "+name+"!";
 }
